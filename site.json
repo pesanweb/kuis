@@ -18,7 +18,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1723216821,
+      "updated": 1761865125,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -63,7 +63,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nThis is a boilerplate so that you can add and make new things from the npx @haxtheweb/haxcms-nodejscommand\nWhat can I do?\nWe've ",
       "metadata": {
         "created": 1689962391,
-        "updated": 1723216821,
+        "updated": 1761865125,
         "published": true,
         "hideInMenu": false,
         "locked": false,
